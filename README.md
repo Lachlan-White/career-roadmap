@@ -1,5 +1,7 @@
 ## Career Roadmap
 
+![Career_roadmap_banner](https://lachlanwhite.com/images/posts/career/career_roadmap_banner.webp)
+
 A simple markdown template to help ask the what and why questions for your career, along with certain ratios to help make decisions.
 
 This template was made to serve as a usable example of the worksheet mentioned in my [blog post][0]
